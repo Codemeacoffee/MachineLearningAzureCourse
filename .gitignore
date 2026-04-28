@@ -9,6 +9,8 @@ runs/
 logs/
 checkpoint*/
 checkpoints/
+*-checkpoint*.ipynb
+.ipynb_checkpoints/
 
 # Azure ML
 *.amltmp
