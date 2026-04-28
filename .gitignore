@@ -1,15 +1,22 @@
-# Model outputs
+# Models
 fine_tuned_bert/
-results/
-logs/
+*.bin
+*.safetensors
 
-# Python cache
+# Training outputs
+results/
+runs/
+logs/
+checkpoint*/
+checkpoints/
+
+# Azure ML
+*.amltmp
+.amltmp/
+
+# Python
 __pycache__/
 *.pyc
 
 # Jupyter
 .ipynb_checkpoints/
-
-# Virtual environments
-venv/
-.env/
