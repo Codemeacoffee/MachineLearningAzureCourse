@@ -1,0 +1,15 @@
+# Model outputs
+fine_tuned_bert/
+results/
+logs/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
