@@ -1,0 +1,9 @@
+{
+  "restart_router": "Please restart your router and check if the problem persists.",
+  "reset_network_settings": "Try resetting your network settings. Instructions are available in your system settings under 'Network Reset'.",
+  "check_cables": "Ensure all network cables are securely connected.",
+  "isp_contact": "If the issue continues, please contact your Internet Service Provider (ISP) for further assistance.",
+  "clear_cache": "Clearing your browser cache can sometimes resolve connectivity issues.",
+  "slow_internet": "Restart your router and check your network settings.",
+  "software_crash": "Update the software to the latest version and restart your computer."
+}
